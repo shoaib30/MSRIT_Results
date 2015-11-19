@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MSRIT Results</string>
+    <string name="resultsURL">http://results.techgeekme.com/</string>
+</resources>
